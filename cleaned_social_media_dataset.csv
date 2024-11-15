@@ -1,0 +1,101 @@
+user_id,username,message,date,likes,retweets,hashtags
+7,user_7,Python is amazing! #coding #python,2023-11-03 06:19:29.721485,351,229,#travel
+15,user_15,Check out my new blog post!,2024-07-30 06:19:29.721505,198,50,#fitness
+11,user_11,Python is amazing! #coding #python,2024-09-13 06:19:29.721510,307,263,#game
+8,user_8,,2024-05-08 06:19:29.721514,488,282,#coffee
+7,user_7,Taking a break #relax,2024-05-23 06:19:29.721517,416,26,
+19,user_19,Who else loves coffee? #coffee,2024-06-03 06:19:29.721522,423,225,#fitness
+11,user_11,Python is amazing! #coding #python,2024-07-16 06:19:29.721526,0,276,#sunnyday #fun
+11,user_11,Check out my new blog post!,2024-08-04 06:19:29.721530,38,285,#travel
+4,user_4,Having a great time with friends #goodvibes,2023-10-15 06:19:29.721539,337,96,#travel
+8,user_8,Who else loves coffee? #coffee,2023-12-21 06:19:29.721543,359,283,#sunnyday #fun
+3,user_3,Listening to my favorite song #music,2024-08-12 06:19:29.721546,128,146,#coding #python
+2,user_2,Learning new coding skills #python,2023-11-28 06:19:29.721549,266,3,#music
+12,user_12,Taking a break #relax,2024-02-22 06:19:29.721552,475,34,#coffee
+6,user_6,Taking a break #relax,2024-09-09 06:19:29.721555,440,191,#developerlife
+2,user_2,,2024-09-10 06:19:29.721557,472,48,#peace
+1,user_1,Working on my new project #developerlife,2024-08-09 06:19:29.721560,433,16,#fitness
+12,user_12,Running my first marathon next week #fitness,2024-06-06 06:19:29.721563,150,171,#sunnyday #fun
+12,user_12,Listening to my favorite song #music,2024-05-29 06:19:29.721565,414,219,#peace
+17,user_17,Found this cute café #coffee,2024-01-11 06:19:29.721567,477,157,#game
+10,user_10,Can't stop coding #python,2023-11-22 06:19:29.721569,297,45,#fitness
+16,user_16,Can't wait for the weekend #TGIF,2024-09-12 06:19:29.721571,98,5,#music
+15,user_15,,2023-12-13 06:19:29.721572,262,98,#peace
+15,user_15,Listening to my favorite song #music,2024-06-16 06:19:29.721573,251,232,#game
+19,user_19,Working on my new project #developerlife,2023-10-29 06:19:29.721575,143,36,#TGIF
+12,user_12,Taking a break #relax,2023-10-02 06:19:29.721576,345,279,
+3,user_3,Check out my latest code snippet #coding,2023-12-21 06:19:29.721578,111,180,#travel
+5,user_5,Can't wait for the weekend #TGIF,2024-02-24 06:19:29.721580,499,94,#TGIF
+19,user_19,Working on my new project #developerlife,2024-06-05 06:19:29.721583,59,98,#fitness
+7,user_7,Listening to my favorite song #music,2024-02-09 06:19:29.721586,368,187,#music
+9,user_9,Running my first marathon next week #fitness,2023-11-29 06:19:29.721588,1,115,#coffee
+7,user_7,Loving this weather #sunnyday,2024-05-06 06:19:29.721591,384,190,#peace
+18,user_18,Had the best meal today #foodie,2024-09-22 06:19:29.721593,303,252,
+4,user_4,Working on my new project #developerlife,2024-07-06 06:19:29.721596,253,160,#fitness
+14,user_14,Just completed a 5k run! #fitness,2023-10-04 06:19:29.721599,139,255,#sunnyday #fun
+18,user_18,Exploring new places #travel,2024-02-22 06:19:29.721600,452,127,#goodvibes
+9,user_9,Exploring new places #travel,2024-04-04 06:19:29.721602,36,17,#fitness
+2,user_2,Can't stop coding #python,2024-05-06 06:19:29.721603,159,280,
+15,user_15,,2024-07-08 06:19:29.721604,8,222,#travel
+7,user_7,Listening to my favorite song #music,2024-06-07 06:19:29.721606,232,53,#travel
+12,user_12,Check out my new blog post!,2024-04-06 06:19:29.721607,98,57,#fitness
+8,user_8,Check out my new blog post!,2024-08-04 06:19:29.721609,146,173,#game
+15,user_15,Can't stop coding #python,2024-08-09 06:19:29.721610,303,279,#goodvibes
+3,user_3,Working on my new project #developerlife,2024-03-15 06:19:29.721611,0,113,#sunnyday #fun
+14,user_14,Learning new coding skills #python,2024-08-07 06:19:29.721612,130,287,#fitness
+17,user_17,Python is amazing! #coding #python,2024-03-26 06:19:29.721614,403,150,#game
+4,user_4,Listening to my favorite song #music,2024-04-02 06:19:29.721615,151,126,#travel
+18,user_18,Just completed a 5k run! #fitness,2023-11-21 06:19:29.721616,53,154,#travel
+8,user_8,,2024-05-13 06:19:29.721618,119,272,#music
+4,user_4,Learning new coding skills #python,2024-09-03 06:19:29.721619,160,103,#fitness
+2,user_2,Having a great time with friends #goodvibes,2024-02-03 06:19:29.721620,407,298,#goodvibes
+6,user_6,Check out my new blog post!,2023-12-26 06:19:29.721622,115,245,#coding #python
+10,user_10,Running my first marathon next week #fitness,2024-07-24 06:19:29.721623,0,175,#goodvibes
+4,user_4,Had the best meal today #foodie,2024-03-16 06:19:29.721624,112,38,#travel
+18,user_18,,2024-08-16 06:19:29.721626,455,169,#travel
+12,user_12,Taking a break #relax,2023-12-18 06:19:29.721627,0,246,#TGIF
+2,user_2,Learning new coding skills #python,2024-04-28 06:19:29.721628,421,25,#travel
+10,user_10,Can't stop coding #python,2023-11-09 06:19:29.721630,103,12,#sunnyday #fun
+4,user_4,Found this cute café #coffee,2023-11-14 06:19:29.721631,339,35,#developerlife
+14,user_14,Found this cute café #coffee,2024-03-24 06:19:29.721632,253,172,#fitness
+16,user_16,Can't stop coding #python,2023-12-05 06:19:29.721634,226,19,#peace
+15,user_15,Exploring new places #travel,2024-06-19 06:19:29.721635,111,263,#goodvibes
+8,user_8,Listening to my favorite song #music,2023-10-01 06:19:29.721636,472,141,#developerlife
+14,user_14,Loving this weather #sunnyday,2024-08-21 06:19:29.721638,98,142,#game
+8,user_8,Python is amazing! #coding #python,2024-09-02 06:19:29.721639,152,91,#coding #python
+16,user_16,Found this cute café #coffee,2023-10-23 06:19:29.721640,348,287,#sunnyday #fun
+13,user_13,Having a great time with friends #goodvibes,2024-06-01 06:19:29.721642,401,214,
+18,user_18,,2024-04-30 06:19:29.721643,383,50,#foodie
+15,user_15,Found this cute café #coffee,2024-08-16 06:19:29.721645,365,152,#goodvibes
+13,user_13,,2024-05-29 06:19:29.721646,337,185,#developerlife
+9,user_9,Loving this weather #sunnyday,2024-08-05 06:19:29.721647,193,62,
+15,user_15,Loving this weather #sunnyday,2024-03-15 06:19:29.721649,309,189,#coding #python
+13,user_13,Having a great time with friends #goodvibes,2024-05-06 06:19:29.721650,162,124,#TGIF
+1,user_1,Check out my new blog post!,2024-02-06 06:19:29.721651,207,149,
+7,user_7,Check out my new blog post!,2023-11-05 06:19:29.721653,444,57,#sunnyday #fun
+9,user_9,Running my first marathon next week #fitness,2024-03-23 06:19:29.721654,168,179,#sunnyday #fun
+1,user_1,,2024-07-04 06:19:29.721655,483,169,#peace
+12,user_12,Exploring new places #travel,2024-03-20 06:19:29.721657,160,270,#TGIF
+8,user_8,Just completed a 5k run! #fitness,2024-03-28 06:19:29.721658,67,53,#foodie
+11,user_11,Can't wait for the weekend #TGIF,2024-06-10 06:19:29.721659,288,100,#fitness
+19,user_19,Check out my latest code snippet #coding,2023-10-18 06:19:29.721660,397,263,
+17,user_17,Found this cute café #coffee,2024-05-12 06:19:29.721662,276,52,#TGIF
+8,user_8,Just completed a 5k run! #fitness,2023-10-02 06:19:29.721663,303,59,#sunnyday #fun
+3,user_3,Having a great time with friends #goodvibes,2023-10-12 06:19:29.721664,403,107,#sunnyday #fun
+3,user_3,Can't stop coding #python,2023-10-30 06:19:29.721666,383,4,#developerlife
+1,user_1,Loving this weather #sunnyday,2024-08-20 06:19:29.721667,0,102,#travel
+5,user_5,,2023-11-19 06:19:29.721668,134,195,#foodie
+10,user_10,Check out my latest code snippet #coding,2023-11-05 06:19:29.721670,194,261,
+7,user_7,Had an amazing workout today #fitness,2024-06-30 06:19:29.721671,400,46,#peace
+9,user_9,Had an amazing workout today #fitness,2023-12-27 06:19:29.721672,127,143,#peace
+7,user_7,Check out my new blog post!,2024-05-23 06:19:29.721673,32,268,
+9,user_9,Learning new coding skills #python,2024-07-04 06:19:29.721675,175,123,#coding #python
+8,user_8,Just completed a 5k run! #fitness,2024-02-02 06:19:29.721676,459,105,#peace
+12,user_12,Had an amazing workout today #fitness,2024-03-15 06:19:29.721677,442,157,#TGIF
+2,user_2,Python is amazing! #coding #python,2024-05-10 06:19:29.721679,370,146,#coding #python
+1,user_1,Can't stop coding #python,2023-11-03 06:19:29.721680,469,144,#TGIF
+16,user_16,Can't wait for the weekend #TGIF,2023-10-09 06:19:29.721681,374,119,#game
+5,user_5,Running my first marathon next week #fitness,2023-12-15 06:19:29.721682,21,274,#sunnyday #fun
+3,user_3,Python is amazing! #coding #python,2024-06-05 06:19:29.721684,237,91,#travel
+12,user_12,Running my first marathon next week #fitness,2023-10-11 06:19:29.721685,157,57,#developerlife
+8,user_8,Can't stop coding #python,2024-04-12 06:19:29.721686,37,228,#peace
